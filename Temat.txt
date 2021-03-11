@@ -1,0 +1,3 @@
+Strona internetowa o treściach informatycznych.
+Strona jest przeznaczona dla miłośników informatyki.
+Celem projektu jest stworzenie strony internetowej o treściach informatycznych. Planowane są kalkulatory do przeliczeń systemów liczbowych, sekcja z memami informatycznymi, 
